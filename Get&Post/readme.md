@@ -1,11 +1,12 @@
 # Difference between GET and POST
 
 ## DESCRIPTION
-###This section will guide you to:
 
-● Create an HTML page to send a GET request and a POST request
-● Create a servlet to handle the GET request
-● Create a servlet to handle the POST request
+This section will guide you to:
+
+● Create an HTML page to send a GET request and a POST request \n
+● Create a servlet to handle the GET request \n
+● Create a servlet to handle the POST request \n
 
  
 
