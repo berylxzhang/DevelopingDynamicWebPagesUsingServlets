@@ -16,13 +16,13 @@ This section will guide you to:
 
 This lab has ten subsections, namely:
 
-1.1.1 Creating a dynamic web project
-1.1.2 Creating an HTML page
-1.1.3 Creating a servlet GetHandler.java
-1.1.4 Creating a servlet PostHandler.java
-1.1.5 Configuring web.xml
-1.1.6 Checking for servlet-api.jar
-1.1.7 Building the project
-1.1.8 Publishing and starting the project
-1.1.9 Running the project
+1.1.1 Creating a dynamic web project\
+1.1.2 Creating an HTML page\
+1.1.3 Creating a servlet GetHandler.java\
+1.1.4 Creating a servlet PostHandler.java\
+1.1.5 Configuring web.xml\
+1.1.6 Checking for servlet-api.jar\
+1.1.7 Building the project\
+1.1.8 Publishing and starting the project\
+1.1.9 Running the project\
 1.1.10 Pushing the code to GitHub repositories
